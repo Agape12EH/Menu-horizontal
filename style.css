@@ -1,10 +1,23 @@
 body {
     font-size: 15pt;
 }
-
+.nav-bar{
+  padding-top: 5px;
+  padding-bottom: 5px;
+padding-right: 40px;
+  background-color: green;
+  display: flex;
+  
+  justify-content:space-between;
+}
 .nav-bar ul{
     list-style-type: none; 
 }
 .nav-bar li{
     display: inline;
+   
+}
+.menu-list{
+  display: inline;
+  
 }
